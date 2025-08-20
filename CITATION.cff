@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Story Brain: Reference Specification v1.0"
+message: "Please cite this work if you reuse or refer to the Story Brain specification."
+authors:
+  - family-names: Jackson
+    given-names: Hooroo
+    # supply your ORCID if you have one
+    orcid: https://orcid.org/0000-0000-0000-0000
+version: "1.0.0"
+doi: 10.5281/zenodo.168895590
+date-released: 2025-10-01
+license: CC-BY-4.0
+keywords:
+  - AI cinema
+  - adaptive narrative
+  - story engine
+  - film theory
+  - New Machine Cinema
